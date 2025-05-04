@@ -36,7 +36,17 @@
 - Install Node JS
 - Handle Node JS version using NVM
 - Handle Node js version using fnm
-- Install TypeScript Globally with 
+- Install TypeScript Globally with
+
 ```bash
-npm i -g typeScript 
+npm i -g typeScript
+```
+
+### 1-3 Write your first typescript program
+
+```bash
+tsc --init #create Ts Config
+# rootDir -> Define Root Difrectory
+# outDir -> Define Outer Directory for transpile
+# target -> Decide in which version , code converted into js
 ```
