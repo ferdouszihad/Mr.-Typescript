@@ -1,0 +1,33 @@
+<img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="50px" />
+
+## 1-1 Introduction to typescript
+
+### what is TypeScript ?
+
+### Lackings of JavaScript
+
+- Dynamic Type checking issues
+- Don't Support OOP
+- Hard to find bugs if Project is Large
+- Catch errors only on Run Time
+- Versions are Different , Hard to convert
+
+### Can Browser Recognize Ts Code ??
+
+- No . Ts Convert to JS
+
+### Advantages of TypeScript
+
+- Type Safety
+- TS have All the type of JS
+- Ts have is own data types also
+- Less Bugs & Less Testing
+- Increase readabilities & Productivity
+
+### DisAdvantages
+
+- Make type definition complex
+- Manual Migration demands hard effort
+- Limited Library Support
+- Over Engineering happens
+
