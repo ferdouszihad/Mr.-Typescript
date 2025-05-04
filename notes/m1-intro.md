@@ -31,3 +31,12 @@
 - Limited Library Support
 - Over Engineering happens
 
+## 2. Install TypeScript & Handle Node Version
+
+- Install Node JS
+- Handle Node JS version using NVM
+- Handle Node js version using fnm
+- Install TypeScript Globally with 
+```bash
+npm i -g typeScript 
+```
