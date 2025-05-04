@@ -50,3 +50,7 @@ tsc --init #create Ts Config
 # outDir -> Define Outer Directory for transpile
 # target -> Decide in which version , code converted into js
 ```
+
+```bash
+tsc # Convert typescripts in JS
+```
