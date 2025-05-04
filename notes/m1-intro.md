@@ -54,3 +54,66 @@ tsc --init #create Ts Config
 ```bash
 tsc # Convert typescripts in JS
 ```
+
+### 1-4 Data Type in TypeScript
+
+#### Primitive Data Types
+
+- **string**: Represents textual data.
+  ```typescript
+  let name: string = "John";
+  ```
+- **number**: Represents numeric values.
+  ```typescript
+  let age: number = 25;
+  ```
+- **boolean**: Represents true/false values.
+  ```typescript
+  let isStudent: boolean = true;
+  ```
+- **null**: Represents a null value.
+  ```typescript
+  let emptyValue: null = null;
+  ```
+- **undefined**: Represents an undefined value.
+  ```typescript
+  let notAssigned: undefined = undefined;
+  ```
+
+#### Special Data Types
+
+- **any**: Can hold any type of value.
+  ```typescript
+  let randomValue: any = "Hello";
+  randomValue = 42;
+  ```
+- **unknown**: Similar to `any` but safer.
+  ```typescript
+  let uncertainValue: unknown = "Hello";
+  ```
+- **void**: Used for functions that do not return a value.
+  ```typescript
+  function logMessage(): void {
+    console.log("This is a message");
+  }
+  ```
+- **never**: Represents values that never occur.
+  ```typescript
+  function throwError(message: string): never {
+    throw new Error(message);
+  }
+  ```
+
+#### Complex Data Types
+
+- **array**: Represents a collection of values.
+  ```typescript
+  let numbers: number[] = [1, 2, 3];
+  ```
+- **tuple**: Represents an array with fixed types and length.
+  ```typescript
+  let person: [string, number] = ["Alice", 30];
+  ```
+
+#### Concept of Type Assertion
+
