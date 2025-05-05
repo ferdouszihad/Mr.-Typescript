@@ -44,7 +44,14 @@
 
 ## 1-5 Object , Optional and Literal Types
 
-- How to write type of a object
+- How to write a object in ts
 - make a property optional
 - make a property fixed / literal
-- make a property read-only 
+- make a property read-only
+
+## 1-6 Function in typescript
+
+- How to write Normal function in TS
+- How to write Arrow function in TS
+- How to write method in TS
+- How to write callback function in TS ( find , filter , foreach)
