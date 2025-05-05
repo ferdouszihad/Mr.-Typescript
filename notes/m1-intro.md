@@ -55,3 +55,10 @@
 - How to write Arrow function in TS
 - How to write method in TS
 - How to write callback function in TS ( find , filter , foreach)
+
+## 1-7 Spread and Rest Operator
+
+- How to use Spread in Ts
+- How to use Rest in Ts
+- Array Distructuring in TS
+- Object Distructuring in TS
