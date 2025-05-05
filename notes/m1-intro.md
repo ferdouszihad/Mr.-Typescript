@@ -41,4 +41,10 @@
   - string, number, boolean , null , undefined , any , unknown
 - Non-Premitive types
   - Array , Tuple
-  
+
+## 1-5 Object , Optional and Literal Types
+
+- How to write type of a object
+- make a property optional
+- make a property fixed / literal
+- make a property read-only 
