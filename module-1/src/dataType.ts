@@ -1,15 +1,47 @@
-//premitive
-let a: number = 10; //number
-let b: string = "Hello World"; //string
-let c: boolean = true; //boolean
-let d: null = null; //null
-let e: undefined = undefined; //undefined
-let f: symbol = Symbol("symbol"); //symbol
+// basic data type
+{
+  //implicit datatype
+  let name = "rahim"; // automatically type inferred
+  //   name = 12; ❌ cwont work
 
-//non-premitive
-let g: object = { name: "John", age: 30 }; //object
-let h: any = "Hello"; //any
-let i: unknown = "Hello"; //unknown
-let j: never; //never
+  //explicit data type
 
-//array
+  let food: string = "Burger";
+
+  //number
+  let price: number = 120.334;
+
+  //boolean
+  let isAdmin: boolean = true;
+
+  //undefined
+  let x: undefined = undefined;
+
+  //null
+
+  let node: null = null;
+
+  //any
+
+  let a; // initially any type .  dont provide typeSaftey
+  let b: any;
+  a = 120;
+  a = "ss";
+
+  //unknown
+
+  let k: unknown;
+  k = "kola";
+  k = 12;
+
+  //array
+  let foods: string[] = ["burger", "pizza", "chicken fry"];
+
+  //   foods.push(1); cant happen
+
+  //tuple ->> fixed set of array
+
+  let cuple: [string, string] = ["emu", "zihad"];
+
+  let gpa: [string, number] = ["HSC", 5.0];
+}
