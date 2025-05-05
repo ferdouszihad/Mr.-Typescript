@@ -1,12 +1,43 @@
-let EmusFrnd: string[] = ["moushumi", "spondon", "achol", "eti"];
-let zihadFrnd: string[] = ["Anas", "Emon", "Manna", "sabikun Nahar"];
+{
+  let zihadFrnd: string[] = [
+    "Anas",
+    "Emon",
+    "Manna",
+    "sabikun Nahar",
+    "noushin",
+  ];
 
-const [specialGuest, ...normalGuests] = zihadFrnd;
+  const [, , must, ...maybe] = zihadFrnd;
 
-const invitedPersons: string[] = [...EmusFrnd, ...zihadFrnd];
+  let event: {
+    name: string;
+    parents: {
+      mother: string;
+      father: string;
+      grand: {
+        father: string;
+        mother: string;
+      };
+    };
+    guests: string[];
+  } = {
+    name: "birthday party",
+    parents: {
+      mother: "emu",
+      father: "zihad",
+      grand: {
+        father: "lokman",
+        mother: "pushpo",
+      },
+    },
+    guests: ["Anas", "Emon", "Manna", "sabikun Nahar", "noushin"],
+  };
 
-const greet = (...guests: string[]) => {
-  guests.forEach((guest) => console.log(`Konnichiwa ${guest}`));
-};
-
-greet(...invitedPersons);
+  const {
+    name,
+    parents: {
+      grand: { father: grandpa },
+    },
+    guests: [, , special, ...waiting],
+  } = event;
+}

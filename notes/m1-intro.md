@@ -60,5 +60,10 @@
 
 - How to use Spread in Ts
 - How to use Rest in Ts
-- Array Distructuring in TS
-- Object Distructuring in TS
+
+## 1-8 Destructuring in typescript
+
+- Array Distructuring
+- Object Distructuring
+- Nested Object Distructuring
+- Why we don't need to declare type disructured variable
