@@ -67,3 +67,10 @@
 - Object Distructuring
 - Nested Object Distructuring
 - Why we don't need to declare type disructured variable
+
+## 1-9 Type alias in typescript
+
+- how to define type in ts
+- type for object
+- type for premitives
+- type for function
