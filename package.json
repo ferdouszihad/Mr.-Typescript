@@ -1,0 +1,22 @@
+{
+  "name": "typescript-technocrate",
+  "version": "1.0.0",
+  "description": "<img src=\"https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png\" width=\"50px\" />",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ",
+    "file": "npm run dev --",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdouszihad/Mr.-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdouszihad/Mr.-Typescript/issues"
+  },
+  "homepage": "https://github.com/ferdouszihad/Mr.-Typescript#readme"
+}

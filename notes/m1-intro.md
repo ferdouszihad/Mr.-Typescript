@@ -81,3 +81,12 @@
 - Union on Value
 - Union on Type
 - Interscection on Type
+
+## 1-11 Ternary, optional chaining & nullish coalescing operator
+
+- How to use ts-node-dev globally & why
+- optional chaining
+- ternary
+- nullish Collescing
+- &&
+- ||
