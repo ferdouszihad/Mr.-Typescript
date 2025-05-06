@@ -90,3 +90,12 @@
 - nullish Collescing
 - &&
 - ||
+
+## 1-12 Never,unknown and nullable type
+
+- never type
+- unknown
+- nullable
+- How to use unkwon , nullable & never
+- unknwon vs any 
+- void vs Never
