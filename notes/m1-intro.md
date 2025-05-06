@@ -74,3 +74,10 @@
 - type for object
 - type for premitives
 - type for function
+
+## 1-10 Union and Intersection types
+
+- How to do Union in Ts
+- Union on Value
+- Union on Type
+- Interscection on Type
