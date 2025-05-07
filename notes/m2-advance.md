@@ -31,3 +31,10 @@
 - Generics on Object with interface
 - declare dynamic type with type parameter
 - default type parameter value
+
+## 2-5 Function with generics
+
+- How to create Generic Function
+- Create Function that make Dynamic Array
+- Careate Function that make Dynamic Tuple
+- Create Function that make dynamic object
