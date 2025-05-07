@@ -17,3 +17,11 @@
 - define type of a function using interface
 - where to use type
 - where to use interface
+
+## 2-3: Introduction to generics
+
+- 2 way to define array ( T[] Array<T>)
+- What is Generics & Why ( generalizing type)
+- HOw to define Generic array
+- way of define type of an array of object
+- way of define Generic Tuple
