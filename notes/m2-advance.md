@@ -38,3 +38,10 @@
 - Create Function that make Dynamic Array
 - Careate Function that make Dynamic Tuple
 - Create Function that make dynamic object
+
+## 2-6: Constraints in typescript
+
+- what is contraints
+- Why use constraints
+- How to use contstrains
+- use of extends in constrains
