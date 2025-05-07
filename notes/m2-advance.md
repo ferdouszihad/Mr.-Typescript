@@ -25,3 +25,9 @@
 - HOw to define Generic array
 - way of define type of an array of object
 - way of define Generic Tuple
+
+## 2-4: Generic with Interface
+
+- Generics on Object with interface
+- declare dynamic type with type parameter
+- default type parameter value
