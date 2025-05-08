@@ -66,4 +66,9 @@
 - conditional type making with keyof
 - conditional type making with Generics
 
+## 2-10: Mapped types
 
+- way of converting type on array of object
+- what is mapped type
+- hoow to use mapped type on object
+- Generics withh mapped type
