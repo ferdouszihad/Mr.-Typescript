@@ -72,3 +72,14 @@
 - what is mapped type
 - hoow to use mapped type on object
 - Generics withh mapped type
+
+## 2-11: Utility types
+
+we can create by this keys
+
+- pick-> take some property from another type
+- Omit-> leave some property from another type
+- required -> Make every type required
+- partial -> Make every type partial
+- ReadOnly -> make every type read only
+- Record Type ->
