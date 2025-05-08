@@ -53,6 +53,17 @@
 - a getProperty Function
 
 ## 2-8: Asynchronous typescript
+
 - How to create Promise
 - How manage promise types
 - Prmise using fetch & validate type
+
+## 2-9: Conditional types
+
+- what is conditional type
+- How to use conditional type
+- conditional type making with extends
+- conditional type making with keyof
+- conditional type making with Generics
+
+
