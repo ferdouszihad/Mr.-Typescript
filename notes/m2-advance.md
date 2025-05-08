@@ -51,3 +51,8 @@
 - what `keyof` property do
 - real life useCase of keyOf
 - a getProperty Function
+
+## 2-8: Asynchronous typescript
+- How to create Promise
+- How manage promise types
+- Prmise using fetch & validate type
