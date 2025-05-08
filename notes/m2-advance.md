@@ -45,3 +45,9 @@
 - Why use constraints
 - How to use contstrains
 - use of extends in constrains
+
+## 2-7 Constraint using key of
+
+- what `keyof` property do
+- real life useCase of keyOf
+- a getProperty Function
