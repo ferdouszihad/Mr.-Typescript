@@ -21,3 +21,10 @@
   - Encapsulation
 
 ## 3-1: Class and object
+
+- How to declare Class with JS/TS
+- How to define constructor
+- How to create method
+- Why we dont use Arrow function in class
+- How to use access modifiers in class
+- Professional way of defining class
