@@ -35,18 +35,18 @@
 - How to create inheritance in OOP
 - use of Super Class
 
-### 3-3: Type guard using typeof & in
+## 3-3: Type guard using typeof & in
 
 - Typeof
 - in Guard
 
-### 3-4: Type guard using instance of
+## 3-4: Type guard using instance of
 
 - How to use instance of as typeGuard
 - use of is operator
 - instance checking function
 
-### 3-5 + 6: Access modifiers , Getter and setter
+## 3-5 + 6: Access modifiers , Getter and setter
 
 - radonly property
 - acces modifier declaration
@@ -54,3 +54,10 @@
 - using public
 - use of get method
 - use of set method
+
+## 3-7 Statics in OOP
+
+- How class take memory
+- How to address class variable in same address
+- static variable
+- static memory
