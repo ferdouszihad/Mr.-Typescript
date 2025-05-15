@@ -23,26 +23,19 @@
       this.contact = contact;
       this.key = key;
     }
-    cashIn(amount: number): void {
-      this.balance += amount;
+
+    get Balance() {
+      return newAc.balance;
     }
-    cashOut(amount: number, key: number): void {
-      if (key != this.key) {
-        throw new Error("wrong credentials");
-      } else {
-        this.balance -= amount;
-      }
-    }
-    showBalance(): void {
-      console.log(this.balance);
+    set Deposit(newAmount: number) {
+      newAc.balance += newAmount;
     }
   }
 
   const newAc = new Account(10110, "EMU", "MSA", 1818857587, 1123);
 
-  newAc.cashIn(10000);
-  newAc.cashIn(987);
-  newAc.cashOut(983, 1123);
+  newAc.Deposit = 100;
+  newAc.Deposit = 130;
 
-  newAc.showBalance();
+  console.log(newAc.Balance);
 }

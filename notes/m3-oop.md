@@ -46,7 +46,11 @@
 - use of is operator
 - instance checking function
 
-### 3-5: Access modifiers
+### 3-5 + 6: Access modifiers , Getter and setter
+
 - radonly property
 - acces modifier declaration
-  
+- using private
+- using public
+- use of get method
+- use of set method
