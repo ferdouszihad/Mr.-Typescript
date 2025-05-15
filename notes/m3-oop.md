@@ -47,3 +47,6 @@
 - instance checking function
 
 ### 3-5: Access modifiers
+- radonly property
+- acces modifier declaration
+  
