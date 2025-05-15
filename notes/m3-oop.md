@@ -34,3 +34,16 @@
 - Inheritence Concept
 - How to create inheritance in OOP
 - use of Super Class
+
+### 3-3: Type guard using typeof & in
+
+- Typeof
+- in Guard
+
+### 3-4: Type guard using instance of
+
+- How to use instance of as typeGuard
+- use of is operator
+- instance checking function
+
+### 3-5: Access modifiers
