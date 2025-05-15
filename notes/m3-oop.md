@@ -28,3 +28,9 @@
 - Why we dont use Arrow function in class
 - How to use access modifiers in class
 - Professional way of defining class
+
+## 3-2: Inheritance in OOP
+
+- Inheritence Concept
+- How to create inheritance in OOP
+- use of Super Class
