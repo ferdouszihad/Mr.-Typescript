@@ -61,3 +61,9 @@
 - How to address class variable in same address
 - static variable
 - static memory
+
+## 3-8 Polymorphism
+
+- What is Polymorphism
+- How to implement Polymorphism
+- why we have keep method in same structure
