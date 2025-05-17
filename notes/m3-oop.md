@@ -67,3 +67,16 @@
 - What is Polymorphism
 - How to implement Polymorphism
 - why we have keep method in same structure
+
+## 3-8 Abstraction
+
+- WHat is Abstraction
+- implement abstractin with interface
+- implement abstraction with abstract class
+- Polymorphism vs abstraction
+
+## 3-10 Encapsulation
+
+- what is encapsulation
+- how private, protexted work
+- Getter & setter recap
